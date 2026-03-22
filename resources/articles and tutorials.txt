@@ -1,0 +1,3 @@
+https://jalammar.github.io/illustrated-word2vec/
+https://www.youtube.com/watch?v=B5rvknrwixE&list=PLBAGcD3siRDittPwQDGIIAWkjz-RucAc7&index=20
+https://medium.com/nearist-ai/word2vec-tutorial-the-skip-gram-model-c7926e1fdc09
