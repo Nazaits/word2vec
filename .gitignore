@@ -1,5 +1,2 @@
 __pycache__/
 text8
-embeddings/embeddings.npy
-embeddings/embeddings_sgns_300d.npy
-embeddings/embeddings_cbow_300d.npy
